@@ -12,5 +12,12 @@
     <groupId>cn.xwq.ego.base</groupId>
     <artifactId>ego-base</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus</artifactId>
+        </dependency>
+    </dependencies>
+
 
 </project>
