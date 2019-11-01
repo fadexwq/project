@@ -1,4 +1,7 @@
+cn\ego\manager\service\ItemCatService.class
 cn\ego\manager\controller\ItemController.class
 cn\ego\manager\service\ItemService.class
+cn\ego\manager\service\impl\ItemCatServiceImpl.class
 cn\ego\manager\controller\PageController.class
+cn\ego\manager\controller\ItemCatController.class
 cn\ego\manager\service\impl\ItemServiceImpl.class

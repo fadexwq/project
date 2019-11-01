@@ -1,3 +1,6 @@
 cn\ego\base\mapper\ItemMapper.class
+cn\ego\base\mapper\ItemCatMapper.class
 cn\ego\base\pojo\Item.class
 cn\ego\base\vo\EUDataGridResult.class
+cn\ego\base\vo\EUTreeNode.class
+cn\ego\base\pojo\ItemCat.class
