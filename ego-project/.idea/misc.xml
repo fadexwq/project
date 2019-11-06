@@ -3,6 +3,8 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/ego-manager" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-rest" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

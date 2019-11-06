@@ -11,6 +11,8 @@
     <modules>
         <module>ego-base</module>
         <module>ego-manager</module>
+        <module>ego-rest</module>
+        <module>ego-portal</module>
     </modules>
 
 
