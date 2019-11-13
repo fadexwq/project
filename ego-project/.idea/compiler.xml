@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ego-base" />
-        <module name="ego-portal" />
-        <module name="ego-rest" />
         <module name="ego-manager" />
+        <module name="ego-rest" />
+        <module name="ego-portal" />
       </profile>
     </annotationProcessing>
   </component>
